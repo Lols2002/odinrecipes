@@ -1,15 +1,25 @@
-h2 {
+#title {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
+    color:blueviolet;
+    background-color: darkgoldenrod;
+    display: inline;
 
-    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
 }
 
-p {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+.Description{
+    
+}
 
+.the-recipe{
 
-    background-color: chocolate;
+}
+
+.ingredients{
+
+}
+
+.description{
+
 }
